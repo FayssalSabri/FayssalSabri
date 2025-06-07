@@ -43,6 +43,7 @@ Driven by curiosity and a broad perspective, I am keen to explore how AI can gen
 ### Databases
 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
