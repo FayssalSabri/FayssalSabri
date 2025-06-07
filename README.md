@@ -3,11 +3,11 @@
 🔍 Driven by curiosity, shaped by data.
 
 ## About me
-I am Fayssal Sabri, a final-year dual degree student in Industrial Engineering and Data Science at ENSAM Meknès and Centrale Lyon. My passion lies at the intersection of engineering, data science, and artificial intelligence.
+I am Fayssal Sabri, a final-year dual degree student in Data Science and Artificial Intelligence, with complementary studies in Industrial Engineering, at ENSAM Meknès and Centrale Lyon. My passion lies at the intersection of AI, data science, and engineering.
 
-With a solid foundation in industrial engineering and comprehensive formal training in data science and AI, I’m equipped to tackle complex challenges through data-driven solutions.
+With a solid foundation in data science and AI, supported by industrial engineering, I am well-prepared to address complex challenges through data-driven solutions.
 
-Driven by curiosity and a broad vision, I’m eager to explore how AI can create impact across diverse fields. Looking forward, I am excited to contribute to innovative projects that harness AI to solve real-world problems and drive meaningful change.
+Driven by curiosity and a broad perspective, I am keen to explore how AI can generate impact across diverse fields. I look forward to contributing to innovative projects that apply AI to solve real-world problems and foster meaningful change.
 
 ## Skills & Technologies
 
