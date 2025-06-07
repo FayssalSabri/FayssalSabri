@@ -53,6 +53,3 @@ Driven by curiosity and a broad perspective, I am keen to explore how AI can gen
 [LinkedIn](https://www.linkedin.com/in/fayssalsabri)  
 [Email](mailto:fayssalsabri4@gmail.com)  
 
----
-
-⭐️ Feel free to explore my repositories!
