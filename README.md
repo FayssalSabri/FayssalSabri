@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there 👋, I'm Fayssal Sabri
 
 🔍 Driven by curiosity, shaped by data.
