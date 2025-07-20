@@ -4,10 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-I'm an **Engineer** with a Master's in Data Science & Artificial Intelligence, passionate about transforming complex challenges into impactful, data-driven solutions. 
 
-With a dual academic background from École Centrale de Lyon (**Data Science & AI**) and ENSAM Meknès (**Industrial Engineering**), I bring a unique blend of analytical depth, software engineering expertise, and systemic thinking to every project.
-I thrive on applying data and AI to solve real-world problems, drive innovation, and create lasting value.
+**Engineer** with a **Master**'s in **Data Science & Artificial Intelligence** (Centrale Lyon & ENSAM). Passionate about leveraging data and machine learning to tackle real-world challenges across diverse fields, with a strong focus on systemic thinking, problem-solving, and meaningful impact.
+
 
 ---
 
