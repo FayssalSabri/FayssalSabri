@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Fayssal Sabri</h1>
-<h3 align="center">🔍 Driven by curiosity, shaped by data.</h3>
+<h3 align="center">Engineering the future with data, AI, and creative problem-solving.</h3>
 
 ---
 
