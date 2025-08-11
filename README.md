@@ -25,7 +25,7 @@
 ---
 
 <!-- ///////// ABOUT ME ///////// -->
-<h2 align="justify">About Me 😃</h2>
+<h2 align="justify">About Me </h2>
 <p align="justify">
 Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyon & ENSAM). Passionate about leveraging data and machine learning to tackle real-world challenges across diverse fields, with a strong focus on systemic thinking, problem-solving, and meaningful impact.
 </p>
