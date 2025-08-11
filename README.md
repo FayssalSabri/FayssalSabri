@@ -49,4 +49,38 @@ Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyo
   <img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=j
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-058e0c?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+**Web Development**  
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Databases**  
+<p>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+<!-- ///////// GITHUB STATS ///////// -->
+<h2 align="justify">GitHub Stats 📈</h2>
+<p align="justify">
+  <a href="https://github.com/fayssalsabri">
+    <img src="https://github-readme-stats.vercel.app/api?username=fayssalsabri&show_icons=true&theme=tokyonight" alt="Fayssal's GitHub stats"/>
+  </a>
+  <a href="https://github.com/fayssalsabri">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayssalsabri&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  </a>
+</p>
