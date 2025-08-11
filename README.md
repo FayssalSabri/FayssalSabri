@@ -16,9 +16,11 @@
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
-[<p align="justify">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+%7C+Data+Science+%26+AI;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact)
-</p>](https://git.io/typing-svg)
+<p align="justify">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+%7C+Data+Science+%26+AI;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
