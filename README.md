@@ -1,51 +1,34 @@
-# 
-<div align="center">
-  <img src="logo.png" alt="FayssaAI Logo" width="200" height="200"/>
-  
-  # Hi, I'm **Fayssal Sabri** 
-  ###  Data Science & AI Engineer | Problem Solver
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/fayssalsabri" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-    </a>
-    <a href="mailto:fayssal.sabri@protonmail.com">
-      <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC" />
-    </a>
-    <a href="https://fayssal-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722" />
-    </a>
-  </p>
+<!-- ///////// NAME AND SOCIAL BADGES ///////// -->
+<h1 align="justify">
+  Hi, I'm Fayssal Sabri
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+<p align="justify">
+  <a href="https://www.linkedin.com/in/fayssalsabri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:fayssal.sabri@protonmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://fayssal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Engineer+%7C+Data+Science+%26+AI;Transforming+Data+into+Intelligence;Building+the+Future+with+ML" alt="Typing SVG" />
-  </p>
-</div>
-
----
-
-##  **About Me**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="left">
-        
- **Master's in Data Science & AI** (Centrale Lyon & ENSAM)  
- **Engineer** passionate about leveraging cutting-edge technology  
- **Research Focus**: Machine Learning, Deep Learning, AI Innovation  
- **Mission**: Turning complex data into actionable insights  
- **Vision**: Building intelligent systems that make a real impact  
-
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=fayssalsabri&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ///////// ANIMATED BIO TEXT ///////// -->
+<p align="justify">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+%7C+Data+Science+%26+AI;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
+
+<!-- ///////// ABOUT ME ///////// -->
+<h2 align="justify">About Me </h2>
+<p align="justify">
+Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyon & ENSAM). Passionate about leveraging data and machine learning to tackle real-world challenges across diverse fields, with a strong focus on systemic thinking, problem-solving, and meaningful impact.
+</p>
 
 ---
 
@@ -95,94 +78,3 @@
 </div>
 
 ---
-
-### ** <!-- ///////// NAME AND SOCIAL BADGES ///////// -->
-<h1 align="justify">
-  Hi, I'm Fayssal Sabri
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
-<p align="justify">
-  <a href="https://www.linkedin.com/in/fayssalsabri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:fayssal.sabri@protonmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://fayssal-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
-
-<!-- ///////// ANIMATED BIO TEXT ///////// -->
-<p align="justify">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+%7C+Data+Science+%26+AI;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-<!-- ///////// ABOUT ME ///////// -->
-<h2 align="justify">About Me </h2>
-<p align="justify">
-Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyon & ENSAM). Passionate about leveraging data and machine learning to tackle real-world challenges across diverse fields, with a strong focus on systemic thinking, problem-solving, and meaningful impact.
-</p>
-
-
-##  **Achievements & Highlights**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/_Education-Master's_Degree-blue?style=for-the-badge&color=00D9FF"/>
-        <br><strong>Data Science & AI</strong>
-        <br><em>Centrale Lyon & ENSAM</em>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/_Focus-AI_Innovation-blue?style=for-the-badge&color=00D9FF"/>
-        <br><strong>Machine Learning</strong>
-        <br><em>Deep Learning & MLOps</em>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/_Mission-Real_Impact-blue?style=for-the-badge&color=00D9FF"/>
-        <br><strong>Problem Solving</strong>
-        <br><em>Data-Driven Solutions</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌐 **Let's Connect & Collaborate**
-
-<div align="center">
-  <p>
-     <strong>Open to collaborations</strong> on innovative AI/ML projects<br>
-     <strong>Looking for opportunities</strong> to make meaningful impact<br>
-     <strong>Reach out</strong> for discussions about technology, research, or exciting projects
-  </p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/fayssalsabri" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:fayssal.sabri@protonmail.com">
-      <img src="https://img.shields.io/badge/Email-Drop_a_Line-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-    </a>
-    <a href="https://fayssal-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fayssalsabri&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-  
-  <p><em>"Turning data into intelligence, one algorithm at a time"</em></p>
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
-</div>
