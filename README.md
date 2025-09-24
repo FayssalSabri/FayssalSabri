@@ -32,7 +32,7 @@ Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyo
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## **Tech Stack**
 
 <div align="center">
 
