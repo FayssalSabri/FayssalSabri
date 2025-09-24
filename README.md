@@ -1,8 +1,5 @@
-<!-- ///////// NAME AND SOCIAL BADGES ///////// -->
-<p align="center">
-  <img src="./logo.png" alt="Logo" width="150">
-</p>
 <h1 align="justify">
+  <img src="./logo.png" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
   Hi, I'm Fayssal Sabri
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
@@ -18,7 +15,6 @@
   </a>
 </p>
 
-<!-- ///////// ANIMATED BIO TEXT ///////// -->
 <p align="justify">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+%7C+Data+Science+%26+AI;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact" alt="Typing SVG" />
@@ -27,7 +23,6 @@
 
 ---
 
-<!-- ///////// ABOUT ME ///////// -->
 <h2 align="justify">About Me </h2>
 <p align="justify">
 Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyon & ENSAM). Passionate about leveraging data and machine learning to tackle real-world challenges across diverse fields, with a strong focus on systemic thinking, problem-solving, and meaningful impact.
