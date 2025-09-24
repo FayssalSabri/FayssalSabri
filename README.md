@@ -56,15 +56,12 @@ Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyo
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ### **Databases & Analytics**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### **Cloud & Tools**
