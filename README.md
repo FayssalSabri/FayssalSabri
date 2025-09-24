@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="./logo.png" alt="Logo" width="150">
+</p>
+
 <h1 align="justify">
-  <img src="./logo.png" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
   Hi, I'm Fayssal Sabri
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
