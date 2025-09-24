@@ -47,11 +47,13 @@
 
 ---
 
+---
+
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-###  AI & Machine Learning**
+###  **AI & Machine Learning**
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -60,21 +62,21 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### ** Development & DevOps**
+### **Development & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,java,cs" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### ** Web Technologies**
+### **Web Technologies**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### ** Databases & Analytics**
+### **Databases & Analytics**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
@@ -82,7 +84,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### ** Cloud & Tools**
+### **Cloud & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -94,26 +96,38 @@
 
 ---
 
-##  **GitHub Analytics**
+### ** <!-- ///////// NAME AND SOCIAL BADGES ///////// -->
+<h1 align="justify">
+  Hi, I'm Fayssal Sabri
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+<p align="justify">
+  <a href="https://www.linkedin.com/in/fayssalsabri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:fayssal.sabri@protonmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://fayssal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=fayssalsabri&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayssalsabri&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fayssalsabri&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fayssalsabri&custom_title=Fayssal's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
+<!-- ///////// ANIMATED BIO TEXT ///////// -->
+<p align="justify">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Engineer+%7C+Data+Science+%26+AI;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
+
+<!-- ///////// ABOUT ME ///////// -->
+<h2 align="justify">About Me </h2>
+<p align="justify">
+Engineer with a Master's in Data Science & Artificial Intelligence (Centrale Lyon & ENSAM). Passionate about leveraging data and machine learning to tackle real-world challenges across diverse fields, with a strong focus on systemic thinking, problem-solving, and meaningful impact.
+</p>
+
 
 ##  **Achievements & Highlights**
 
