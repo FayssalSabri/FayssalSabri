@@ -1,4 +1,5 @@
 <!-- ///////// NAME AND SOCIAL BADGES ///////// -->
+<img src="./logo.png" alt="Logo" width="120">
 <h1 align="justify">
   Hi, I'm Fayssal Sabri
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
