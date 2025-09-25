@@ -130,6 +130,6 @@ I'm a passionate **Data Science & AI Engineer** with a Master's degree from **Ce
   
   ---
   
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing+together!;Turning+ideas+into+reality+with+AI" alt="Thank you message" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Turning+ideas+into+reality+with+AI" alt="Thank you message" />
   
 </div>
