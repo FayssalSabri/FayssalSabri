@@ -101,19 +101,6 @@ I'm a passionate **Data Science & AI Engineer** with a Master's degree from **Ce
 
 ---
 
-##  GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=FayssalSabri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayssalSabri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FayssalSabri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
----
 
 ##  Current Focus & Interests
 
