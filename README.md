@@ -16,7 +16,7 @@
   <a href="mailto:fayssal.sabri@protonmail.com">
     <img src="https://img.shields.io/badge/Email-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Email" />
   </a>
-  <a href="https://fayssal-portfolio.vercel.app/">
+  <a href="https://fayssalsabri.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-091519?style=for-the-badge&logo=About.me&logoColor=61DAFB" alt="Portfolio" />
   </a>
   <a href="https://github.com/FayssalSabri">
@@ -132,7 +132,7 @@
     <a href="mailto:fayssal.sabri@protonmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://fayssal-portfolio.vercel.app/">
+    <a href="https://fayssalsabri.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
