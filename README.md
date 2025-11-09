@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/fayssalsabri">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" />
   </a>
-  <a href="mailto:fayssal.sabri@protonmail.com">
+  <a href="mailto:fayssal.sabri.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Email" />
   </a>
   <a href="https://fayssalsabri.vercel.app/">
@@ -129,7 +129,7 @@
     <a href="https://www.linkedin.com/in/fayssalsabri">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:fayssal.sabri@protonmail.com">
+    <a href="mailto:fayssal.sabri.pro@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://fayssalsabri.vercel.app/">
