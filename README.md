@@ -3,7 +3,7 @@
 
   **I'm a passionate Data Science & AI Engineer with a Master's degree from Centrale Lyon & ENSAM. I specialize in transforming complex data into actionable insights and building intelligent solutions that make a real impact.**
   
-  💡 *"Turning data into impact, one algorithm at a time."*
+  💡 *"Leveraging AI and Data Science to create impactful solutions."*
 </div>
 
 
