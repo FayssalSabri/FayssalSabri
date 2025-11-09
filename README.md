@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./logo.png" alt="Fayssal Sabri" width="200">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Fayssal%20Sabri&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Data%20Science%20%26%20AI%20Engineer%20|%20Problem%20Solver%20|%20Innovator&descSize=27&descAlignY=85&section=header" />
 
