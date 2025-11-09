@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Fayssal%20Sabri&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Data%20Science%20&amp;%20AI%20Engineer|Problem%20Solver|Innovator&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi%2C%20I%27m%20Fayssal%20Sabri&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling" />
 
   **I'm a passionate Data Science & AI Engineer with a Master's degree from Centrale Lyon & ENSAM. I specialize in transforming complex data into actionable insights and building intelligent solutions that make a real impact.**
   
@@ -7,7 +7,7 @@
 </div>
 
 
-## 📬 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fayssalsabri">
@@ -21,15 +21,6 @@
   </a>
   <a href="https://github.com/FayssalSabri">
     <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FayssalSabri">
-    <img src="https://komarev.com/ghpvc/?username=FayssalSabri&color=3a8296&label=Profile%20Views" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/FayssalSabri">
-    <img src="https://img.shields.io/github/followers/FayssalSabri?label=GitHub%20Followers&color=3a8296&style=flat" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -63,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -72,7 +63,7 @@
 
 </div>
 
-## 🧩 Most Used Languages
+##  Most Used Languages
 
 <div align="center">
 
