@@ -1,135 +1,151 @@
 <div align="center">
   <img src="./logo.png" alt="Fayssal Sabri" width="200">
   
-  # Hi there, I'm Fayssal Sabri! 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Fayssal%20Sabri&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Data%20Science%20%26%20AI%20Engineer%20|%20Problem%20Solver%20|%20Innovator&descSize=27&descAlignY=85&section=header" />
+
+  <img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px> 
   
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineer;Problem+Solver+%7C+Innovator;Turning+Data+into+Impact;Building+Intelligent+Solutions" alt="Typing SVG" />
+  **I'm a passionate Data Science & AI Engineer with a Master's degree from Centrale Lyon & ENSAM. I specialize in transforming complex data into actionable insights and building intelligent solutions that make a real impact.**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayssalsabri)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayssal.sabri@protonmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fayssal-portfolio.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FayssalSabri)
+  💡 *"Turning data into impact, one algorithm at a time."*
 </div>
 
 ---
 
-##  About Me
+##  Connect with Me
 
-I'm a passionate **Data Science & AI Engineer** with a Master's degree from **Centrale Lyon & ENSAM**. I specialize in transforming complex data into actionable insights and building intelligent solutions that make a real impact.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fayssalsabri">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="mailto:fayssal.sabri@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://fayssal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-091519?style=for-the-badge&logo=About.me&logoColor=61DAFB" />
+  </a>
+  <a href="https://github.com/FayssalSabri">
+    <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
+  </a>
+</p>
 
-**What drives me:**
--  **Research & Innovation**: Exploring cutting-edge AI/ML techniques
--  **Problem Solving**: Tackling complex challenges with data-driven approaches  
--  **Impact**: Creating solutions that benefit society and business
--  **Continuous Learning**: Always staying updated with the latest technologies
-
-**Current Focus:** Deep Learning, Computer Vision, NLP, and MLOps
-
----
-
-##  Key Achievements & Projects
-
-<div align="center">
-
-###  **Education & Certifications**
-- **Master's in Data Science & AI** - Centrale Lyon & ENSAM
-- **Engineering Background** with focus on systemic thinking and problem-solving
-
-###  **Notable Projects**
-- **AI/ML Solutions**: Developed end-to-end machine learning pipelines
-- **Data Engineering**: Built scalable data processing systems
-- **Research**: Contributed to cutting-edge AI research projects
-- **Open Source**: Active contributor to data science communities
-
-###  **Professional Experience**
-- **Data Science & AI Engineer** with expertise in multiple domains
-- **Problem Solver** with a track record of delivering impactful solutions
-- **Innovation Focus** on applying AI to real-world challenges
-
-</div>
+<p align="center">
+  <a href="https://github.com/FayssalSabri">
+    <img src="https://komarev.com/ghpvc/?username=FayssalSabri&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/FayssalSabri">
+    <img src="https://img.shields.io/github/followers/FayssalSabri?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
 
 ---
 
-##  Tech Stack
+##  Technical Skills
 
-<div align="center">
-
-###  **AI & Machine Learning**
-<p>
+### **AI & Machine Learning**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-091519?style=for-the-badge&logo=scikit-learn&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Keras-091519?style=for-the-badge&logo=Keras&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-091519?style=for-the-badge&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Pandas-091519?style=for-the-badge&logo=pandas&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NumPy-091519?style=for-the-badge&logo=numpy&logoColor=61DAFB"/>
 </p>
 
-###  **Development & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,java,cs" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+### **Development & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,java,cs,linux" />
+  <img src="https://img.shields.io/badge/FastAPI-091519?style=for-the-badge&logo=FastAPI&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MLflow-091519?style=for-the-badge&logo=mlflow&logoColor=61DAFB"/>
 </p>
 
-###  **Web Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+### **Data & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,azure,gcp" />
+  <img src="https://img.shields.io/badge/Redis-091519?style=for-the-badge&logo=redis&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-091519?style=for-the-badge&logo=elasticsearch&logoColor=61DAFB"/>
 </p>
-
-###  **Databases & Analytics**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-###  **Cloud & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
-</div>
 
 ---
 
+##  GitHub Statistics
 
-##  Current Focus & Interests
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FayssalSabri&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=FayssalSabri&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+
+</div>
+
+##  Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayssalSabri&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+
+---
+
+## 🚀 Current Focus & Interests
 
 <div align="center">
 
 | **Area** | **Technologies** | **Applications** |
 |:--------:|:----------------:|:----------------:|
-|  **Deep Learning** | PyTorch, TensorFlow, Keras | Computer Vision, NLP |
-|  **Data Science** | Pandas, NumPy, Scikit-learn | Analytics, Visualization |
-|  **MLOps** | Docker, Kubernetes, MLflow | Model Deployment, Monitoring |
-|  **Web Development** | React, FastAPI, Node.js | Full-stack Applications |
+| **Deep Learning** | PyTorch, TensorFlow | Computer Vision, NLP |
+| **MLOps** | Docker, Kubernetes, MLflow | Model Deployment |
+| **Data Engineering** | Spark, Airflow, DBT | Data Pipelines |
+| **AI Research** | Transformers, GANs | Innovative Solutions |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+##  Featured Projects
+
+<div align="center">
+
+### **AI/ML Solutions**
+- End-to-end machine learning pipelines
+- Scalable data processing systems
+- Cutting-edge AI research projects
+
+### **Data Engineering**
+- Real-time data processing
+- Cloud infrastructure optimization
+- Automated ML workflows
+
+### **Open Source**
+- Active contributor to data science communities
+- Educational content and tutorials
+- Tool development for ML practitioners
+
+</div>
+
+---
+
+##  Random Tech Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+</p>
+
+---
+
+##  Let's Collaborate!
 
 <div align="center">
   
-  **I'm always interested in collaborating on exciting projects and discussing new opportunities!**
+  **I'm always interested in collaborating on exciting AI/ML projects and discussing new opportunities!**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayssalsabri)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayssal.sabri@protonmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fayssal-portfolio.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FayssalSabri)
-  
-  ---
-  
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Turning+ideas+into+reality+with+AI" alt="Thank you message" />
-  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/fayssalsabri">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:fayssal.sabri@protonmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://fayssal-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+  </p>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=25&fontColor=61DAFB&animation=twinkling" />
