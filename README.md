@@ -58,8 +58,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FayssalSabri&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=FayssalSabri&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em" alt="GitHub Streak"/>
+<a href="https://github.com/FayssalSabri">
+  <img src="https://github-readme-stats.vercel.app/api?username=FayssalSabri&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0D1117&border_color=3a8296&cache_seconds=86400" height="170em" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/FayssalSabri">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FayssalSabri&theme=radical&background=0D1117&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB&border=3a8296&cache_seconds=86400" height="170em" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -67,7 +71,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayssalSabri&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" alt="Most Used Languages"/>
+<a href="https://github.com/FayssalSabri">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayssalSabri&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0D1117&border_color=3a8296&custom_title=Most%20Used%20Languages&cache_seconds=86400" height="170em" alt="Most Used Languages"/>
+</a>
 
 </div>
 
@@ -114,7 +120,7 @@
 
 ##  Random Tech Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" alt="Random Tech Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&border_color=61DAFB&text_color=61DAFB" alt="Random Tech Quote" />
 </p>
 
 ---
