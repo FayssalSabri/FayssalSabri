@@ -54,18 +54,6 @@
 
 ---
 
-##  GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/FayssalSabri">
-  <img src="https://github-readme-stats.vercel.app/api?username=FayssalSabri&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0D1117&border_color=3a8296&cache_seconds=86400" height="170em" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/FayssalSabri">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FayssalSabri&theme=radical&background=0D1117&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB&border=3a8296&cache_seconds=86400" height="170em" alt="GitHub Streak"/>
-</a>
-
-</div>
 
 ##  Most Used Languages
 
