@@ -16,7 +16,7 @@
   <a href="mailto:fayssal.sabri.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Email" />
   </a>
-  <a href="https://fayssalsabri.vercel.app/">
+  <a href="https://fayssalsabri.com/">
     <img src="https://img.shields.io/badge/Portfolio-091519?style=for-the-badge&logo=About.me&logoColor=61DAFB" alt="Portfolio" />
   </a>
   <a href="https://github.com/FayssalSabri">
